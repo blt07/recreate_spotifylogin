@@ -1,0 +1,128 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+
+}
+
+body
+{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    vertical-align: middle;
+}
+
+.spotify-logo
+{
+    height: 114px;
+    margin-top: 20px;
+    
+}
+
+.spotify-logo img
+{
+    height: 50%;
+
+}
+
+.continue-login
+{
+    border-top: 1px transparent gray;
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+.continue-facebook img
+{
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.continue-phone img
+{  
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.continue-apple img
+{
+    text-align: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+
+.continue-google img
+{
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.or
+{
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.email-or-nickname
+{
+    margin-top: 10px;
+    font-weight: bolder;
+    text-align: center;
+    align-items: left;
+}
+
+.box-email
+{
+    margin-top: 10px;
+}
+
+.password
+{
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.box-password
+{
+    margin-top: 10px;
+}
+
+.forgot-password
+{
+    font-weight: bolder;
+    margin-top: 10px;
+}
+
+.green-box
+{
+    display: inline-flex;
+    text-align: center;
+    text-align: center;
+}
+
+.checkbox
+{
+    font-weight: bolder;
+    margin-top: 30px;
+}
+
+.not-account
+{
+    margin-top: 10px;
+    font-weight: bolder;
+}
+
+.subscribe-spotify
+{
+    margin-top: 10px;
+}
